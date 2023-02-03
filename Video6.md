@@ -4,7 +4,7 @@
  <p>
   membuat branch baru di git 
   <br> ![image](https://user-images.githubusercontent.com/69344524/216504311-0cb7e1c7-567c-4b42-8c29-21a350eb1121.png) <br>
-  <br>![image](https://user-images.githubusercontent.com/69344524/216504311-0cb7e1c7-567c-4b42-8c29-21a350eb1121.png)<br>
+  <br>[image](https://user-images.githubusercontent.com/69344524/216504311-0cb7e1c7-567c-4b42-8c29-21a350eb1121.png)<br>
   <br>bisa dilihat di atas bahwa hanya ada satu branch 
   <br> ![image](https://user-images.githubusercontent.com/69344524/216504393-9f2c3926-6cf0-4a3c-ab05-ff4874aaf89f.png)
   <br> bisa dilihat branchnya bertambah dari yang hanya ada master sekarang menjadi 2 yakni, master dan testing. Sekarang kita berada
