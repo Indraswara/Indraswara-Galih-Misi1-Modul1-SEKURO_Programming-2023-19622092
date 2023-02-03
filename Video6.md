@@ -2,13 +2,12 @@
 <h2>Git Branch<h2>
 
  <p>
-  membuat branch baru di git 
-  <br> ![image](https://user-images.githubusercontent.com/69344524/216504311-0cb7e1c7-567c-4b42-8c29-21a350eb1121.png) <br>
+  <br>membuat branch baru di git 
+  <br> ![image](https://user-images.githubusercontent.com/69344524/216504311-0cb7e1c7-567c-4b42-8c29-21a350eb1121.png) 
   
   <br>bisa dilihat di atas bahwa hanya ada satu branch 
   <br> ![image](https://user-images.githubusercontent.com/69344524/216504393-9f2c3926-6cf0-4a3c-ab05-ff4874aaf89f.png)
-  <br> bisa dilihat branchnya bertambah dari yang hanya ada master sekarang menjadi 2 yakni, master dan testing. Sekarang kita berada
-   di branch master 
+  <br> bisa dilihat branchnya bertambah dari yang hanya ada master sekarang menjadi 2 yakni, master dan testing. Sekarang kita berada di branch master 
    <br> ![image](https://user-images.githubusercontent.com/69344524/216504621-47310adf-667f-4bba-90e3-376accfd0034.png)
    <br>bisa dilihat bahwa kita berpindah ke branch testing dengan perintah git checkout <nama branch> 
    <br>![image](https://user-images.githubusercontent.com/69344524/216504857-1587213d-366d-4434-9ea1-18f1fca78926.png)
@@ -22,7 +21,7 @@
  </p>
    
  <p>
-   ada dua tipe merging fast forward dan three way merge
+   <br>ada dua tipe merging fast forward dan three way merge
    <br>![image](https://user-images.githubusercontent.com/69344524/216505753-861454c0-f15a-4cf8-aa14-8484ce1d98d5.png)
    <br>bisa kita lihat disini dilakukan sebuah merging antara master dan mahasiswa dan terjadi sebuah fast forward merging atau secara langsung
    <br> sekarang kita bisa hapus branch mahasiswa menggunakan git branch -d mahasiswa
