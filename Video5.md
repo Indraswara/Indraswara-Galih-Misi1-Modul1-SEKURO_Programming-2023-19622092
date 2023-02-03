@@ -22,18 +22,18 @@
 </p>
 
 <p>
-  inisiasi repo di komputer lokal \
-  ![image](https://user-images.githubusercontent.com/69344524/216501704-5d69447b-4656-4b55-917f-461b8f242fc0.png)
+  inisiasi repo di komputer lokal 
+  <br>![image](https://user-images.githubusercontent.com/69344524/216501704-5d69447b-4656-4b55-917f-461b8f242fc0.png)
   muncul tulisan master maka folder ini sudah menjadi repository \
-  ![image](https://user-images.githubusercontent.com/69344524/216501984-7c7dc655-9ebd-47cb-8efc-e224aab657c9.png)
+  <br>![image](https://user-images.githubusercontent.com/69344524/216501984-7c7dc655-9ebd-47cb-8efc-e224aab657c9.png)
   terdapat file baru yang belum di-track ke staging area
   
   ![image](https://user-images.githubusercontent.com/69344524/216502054-8b344048-b67d-4392-b4cf-933b368adb50.png)
-  file sudah masuk ke staging area menggunakan git add <nama file(s)> 
+  <br>file sudah masuk ke staging area menggunakan git add <nama file(s)> 
   
   ![image](https://user-images.githubusercontent.com/69344524/216502171-a72517e4-26d3-4985-ae4a-518f1166ce74.png)
-  sudah dilakukan commit ke dalam history dan diberikan pesan bahwa ini adalah commit pertama 
+  <br>sudah dilakukan commit ke dalam history dan diberikan pesan bahwa ini adalah commit pertama 
 
   ![image](https://user-images.githubusercontent.com/69344524/216502275-327b47b9-767b-49fd-bfc8-53914a8dd33c.png)
-  sudah tidak ada lagi file baru yang terdeteksi sehingga working tree clean karena sudah dilakukan commit 
+  <br>sudah tidak ada lagi file baru yang terdeteksi sehingga working tree clean karena sudah dilakukan commit 
  </p> 
