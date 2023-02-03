@@ -23,8 +23,8 @@
 
 <p>
   inisiasi repo di komputer lokal 
-  <br>![image](https://user-images.githubusercontent.com/69344524/216501704-5d69447b-4656-4b55-917f-461b8f242fc0.png)
-  muncul tulisan master maka folder ini sudah menjadi repository \
+  <br>![image](https://user-images.githubusercontent.com/69344524/216501704-5d69447b-4656-4b55-917f-461b8f242fc0.png)</br>
+  muncul tulisan master maka folder ini sudah menjadi repository 
   <br>![image](https://user-images.githubusercontent.com/69344524/216501984-7c7dc655-9ebd-47cb-8efc-e224aab657c9.png)
   terdapat file baru yang belum di-track ke staging area
   
